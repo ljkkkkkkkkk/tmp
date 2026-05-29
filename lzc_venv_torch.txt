@@ -1,0 +1,4 @@
+torch: 2.9.0+cu129
+cuda: 12.9
+cuda available: True
+cuda device count: 4
